@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\sistemas\sesionseman11\sesionseman11\bin\Debug\sesionseman11.exe.config
+C:\Users\USUARIO\Desktop\sistemas\sesionseman11\sesionseman11\bin\Debug\sesionseman11.exe
+C:\Users\USUARIO\Desktop\sistemas\sesionseman11\sesionseman11\bin\Debug\sesionseman11.pdb
+C:\Users\USUARIO\Desktop\sistemas\sesionseman11\sesionseman11\obj\Debug\sesionseman11.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\sistemas\sesionseman11\sesionseman11\obj\Debug\sesionseman11.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\sistemas\sesionseman11\sesionseman11\obj\Debug\sesionseman11.exe
+C:\Users\USUARIO\Desktop\sistemas\sesionseman11\sesionseman11\obj\Debug\sesionseman11.pdb
